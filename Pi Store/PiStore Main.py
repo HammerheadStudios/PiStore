@@ -1,5 +1,7 @@
 from guizero import App, Text, TextBox, PushButton, Slider, Picture, Box
 
+os.system ("sudo pip3 install guizero[images]")
+
 app = App(title="Pi Store", layout="grid", width="900")
 
 def search():
