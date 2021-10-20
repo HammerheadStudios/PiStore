@@ -2,8 +2,8 @@
 .topnav {
   background-color: #f51616;
   overflow: hidden;
-	margin: -8px;
-	height: 64px;
+	margin: 0px;
+	height: 55px;
 }
 
 /* Style the links inside the navigation bar */
@@ -46,7 +46,6 @@
 .banner {
 	padding-top: 100px;
 	padding-bottom: 100px;
-	margin: -8px;
 	overflow: hidden;
 	background: rgb(195, 34, 155);
   background: linear-gradient(0deg, rgba(195, 34, 155, 1) 0%, rgba(225, 40, 99, 1) 35%, rgba(253, 45, 45, 1) 100%);
@@ -57,4 +56,8 @@
   margin-left: auto;
   margin-right: auto;
   width: 50%;
+}
+
+body {
+	margin: 0px;
 }
