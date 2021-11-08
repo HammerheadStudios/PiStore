@@ -27,8 +27,8 @@
 
 /* Add a color to the active/current link */
 .topnav a.active {
-  background-color: #2b2b2b;
-  color: white;
+  background-color: white;
+  color: black;
 }
 
 #Logo {
