@@ -61,3 +61,22 @@
 body {
 	margin: 0px;
 }
+
+.banner button {
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+	border-radius: 5px;
+	outline-color: white;
+	margin-top: 25px;
+	font-size: 18px;
+	background-color: transparent;
+	border-color: white;
+	font-weight: bold;
+	transition: 0.2s;
+}
+
+.banner button:hover {
+	transform: scale(1.03);
+	border-color: lightblue;
+}
